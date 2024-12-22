@@ -61,7 +61,7 @@
         
         <div class="description">
             <h2>About Me</h2>
-            <p>Halo! saya Steven dari prodi teknologi rekayasas sistem elektronika angkatan 24.</p>
+            <p>Halo! saya Sulton dari prodi teknologi rekayasas sistem elektronika angkatan 24.</p>
             
             <h2>Skills</h2>
             <p>pnewmatic</p>
