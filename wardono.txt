@@ -1,9 +1,76 @@
- <!-- footer section-->
-    <footer id="footer">
-        <div class="container-fluid">
-            <!-- social media icons -->
-            <div class="social-icons mt-4">
-                <a href="https://www.instagram.com/" target="_utonsulton"><i class="fab fa-instagram"></i></a>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #fcfdfb;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: rgb(169, 161, 190);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .profile {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .profile-circle {
+            width: 150px;
+            height: 150px;
+            background-color: #3f95f1;
+            border-radius: 50%;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            color: #000000;
+        }
+
+        h1 {
+            color: #000000; 
+            margin-top: 20px;
+        }
+
+        .description {
+            line-height: 1.6;
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile">
+            <div class="profile-circle">
+                ST
             </div>
+            <h1>Sulton</h1>
         </div>
-    </footer>
+        
+        <div class="description">
+            <h2>About Me</h2>
+            <p>Halo! saya Steven dari prodi teknologi rekayasas sistem elektronika angkatan 24.</p>
+            
+            <h2>Skills</h2>
+            <p>pnewmatic</p>
+            
+            <h2>Contact</h2>
+            <p>Email: sukomulyo690@gmail.com<br>
+            Phone: 0823-3788-4817</p>
+        </div>
+    </div>
+    
+</body>
+</html>
